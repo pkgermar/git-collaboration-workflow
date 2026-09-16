@@ -1,0 +1,8 @@
+{
+    "features": {
+        "newCollaborationFeature": {
+            "enabled": true,
+            "description": "Enables the new collaboration workflow feature for release v1.0"
+        }
+    }
+}

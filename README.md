@@ -14,3 +14,7 @@ This repository demonstrates a collaborative Git workflow using feature branches
 ## Current Feature
 
 The new collaboration workflow feature is currently under development and will be controlled through a configuration-based feature flag.
+
+## Release v1.0
+
+Release v1.0 introduces a configuration-based feature flag that allows the new collaboration feature to be enabled or disabled without removing its implementation.
