@@ -13,4 +13,4 @@ This repository demonstrates a collaborative Git workflow using feature branches
 
 ## Current Feature
 
-The new collaboration workflow feature is currently under development.
+The new collaboration workflow feature is currently under development and will be controlled through a configuration-based feature flag.
